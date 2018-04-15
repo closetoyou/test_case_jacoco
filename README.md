@@ -15,8 +15,11 @@ jacoco.class.missCount #允许未检测的类个数</br>
 </br>
 如果打包过程中单元测试覆盖率低于阀值，install会失败。 </br>
 
-运行成功后运行 target\site\jacoco\index.html
+运行成功后运行 target\site\jacoco\index.html </br>
 
+![Alt text](https://github.com/limiaogithub/test_case_jacoco/blob/master/src/example.png)
+
+![Alt text](https://github.com/limiaogithub/test_case_jacoco/blob/master/src/example1.png)
 
 jacoco官网： http://www.eclemma.org/jacoco/trunk/index.html</br>
 

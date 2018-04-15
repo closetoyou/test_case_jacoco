@@ -14,6 +14,10 @@ jacoco.line.percent #代码行覆盖率百分比</br>
 jacoco.class.missCount #允许未检测的类个数</br>
 </br>
 如果打包过程中单元测试覆盖率低于阀值，install会失败。 </br>
+
+运行成功后运行 target\site\jacoco\index.html
+
+
 jacoco官网： http://www.eclemma.org/jacoco/trunk/index.html</br>
 
 

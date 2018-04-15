@@ -19,7 +19,7 @@ jacoco.class.missCount #允许未检测的类个数</br>
 
 ![Alt text](https://github.com/limiaogithub/test_case_jacoco/blob/master/src/example.png)
 
-![Alt text](https://github.com/limiaogithub/test_case_jacoco/blob/master/src/example1.png)
+![Alt text](https://github.com/limiaogithub/test_case_jacoco/blob/master/src/example2.png)
 
 jacoco官网： http://www.eclemma.org/jacoco/trunk/index.html</br>
 
